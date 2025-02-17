@@ -1,5 +1,5 @@
 # Flat Tire Detection using Deep Learning
-This is the official repository for the ICAIAME 2022 paper "Transfer Learning Based Flat Tire Detection by Using RGB Images" by Oktay Ozturk and [Batuhan Hangun](https://github.com/batuhanhangun).
+This is the official repository for the ICAIAME (International Conference on Artificial Intelligence and Applied Mathematics in Engineering) 2022 paper "Transfer Learning Based Flat Tire Detection by Using RGB Images" by Oktay Ozturk and [Batuhan Hangun](https://github.com/batuhanhangun).
 
 
 ## Overview
