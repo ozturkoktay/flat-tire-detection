@@ -1,4 +1,6 @@
 # Flat Tire Detection using Deep Learning
+This is the official repository for the ICAIAME 2022 paper "Transfer Learning Based Flat Tire Detection by Using RGB Images" by Oktay Ozturk and Batuhan Hangun.
+
 
 ## Overview
 This project implements a deep learning-based approach for detecting flat tires from images using transfer learning. The model is trained using the **Xception** architecture, leveraging **ImageNet** pre-trained weights to improve performance. The dataset is augmented to enhance generalization, and training is performed with an adaptive learning rate and early stopping.
@@ -71,10 +73,6 @@ This code can be adapted for **real-time defect detection** using a camera in an
 @InProceedings{10.1007/978-3-031-31956-3_22,
             author="Ozturk, Oktay
             and Hangun, Batuhan",
-            editor="Hemanth, D. Jude
-            and Yigit, Tuncay
-            and Kose, Utku
-            and Guvenc, Ugur",
             title="Transfer Learning Based Flat Tire Detection by Using RGB Images",
             booktitle="4th International Conference on Artificial Intelligence and Applied Mathematics in Engineering",
             year="2023",
